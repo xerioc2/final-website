@@ -1,0 +1,50 @@
+/* Shared styles for all pages */
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 40px;
+}
+
+/* H1 elements centered on every page */
+h1 {
+    text-align: center;
+}
+
+/* Images centered on every page */
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+    height: auto;
+}
+
+a {
+    font-weight: bold;
+}
+
+/* Each page has a different background color and a different text color */
+
+/* index.html */
+body.home {
+    background-color: aliceblue;
+    color: #003366;
+}
+
+/* current_skills.html */
+body.skills {
+    background-color: lavenderblush;
+    color: #4b0082;
+}
+
+/* technical_goals.html */
+body.goals {
+    background-color: honeydew;
+    color: #006400;
+}
+
+/* professional_goal.html */
+body.professional {
+    background-color: floralwhite;
+    color: #8b0000;
+}

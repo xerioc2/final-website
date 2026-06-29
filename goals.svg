@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 200" width="300" height="200">
+  <rect width="300" height="200" fill="#006400"/>
+  <!-- target / goal -->
+  <circle cx="150" cy="90" r="55" fill="#c8f7c5"/>
+  <circle cx="150" cy="90" r="38" fill="#006400"/>
+  <circle cx="150" cy="90" r="22" fill="#c8f7c5"/>
+  <circle cx="150" cy="90" r="8" fill="#006400"/>
+  <text x="150" y="180" font-family="Arial" font-size="18" fill="#ffffff" text-anchor="middle">Goals</text>
+</svg>
